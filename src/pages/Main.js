@@ -3,6 +3,7 @@ import BgAnimation from '../components/BackgroundAnimation/BackgroundAnimation'
 import { Section } from '../components/Global'
 import Hero from '../components/Hero/Hero'
 import Projects from '../components/Projects/Projects'
+import Technologies from '../components/Technologies/Technologies'
 import Layout from '../Layout/Layout'
 
 const Main = () => {
@@ -14,6 +15,7 @@ const Main = () => {
           <BgAnimation />
         </Section>
         <Projects />
+        <Technologies />
       </Layout>
     </>
   )
