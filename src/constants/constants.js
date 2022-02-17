@@ -10,3 +10,25 @@ export const projects = [
     id: 0,
   },
 ]
+
+export const TimeLineData = [
+  { year: 2019, text: 'Started my journey in IT' },
+  { year: 2021, text: 'Graduated in master of Applied Information Technology' },
+  { year: 2021, text: 'Enrolled in a MERN stack bootcamp course' },
+  { year: 2022, text: 'Sharing my projects in guthub' },
+]
+
+export const AccompData = [
+  {
+    number: 1 + 'st',
+    text: 'First Year Course Champion at Victoria University',
+  },
+  {
+    number: 4,
+    text: 'Projects completed and shared',
+  },
+  {
+    number: 5,
+    text: 'Projects completed and shared',
+  },
+]
